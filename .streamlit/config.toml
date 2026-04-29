@@ -1,0 +1,17 @@
+[server]
+enableStaticServing = true
+
+[theme]
+primaryColor = "#C8102E"
+backgroundColor = "#F0F2F5"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1A1A2E"
+font = "sans serif"
+
+[client]
+# This reduces the toolbar (running man, menu) to a minimal state
+toolbarMode = "minimal"
+
+[ui]
+# Some versions of Streamlit support hiding the top bar entirely via config
+hideTopBar = true

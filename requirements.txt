@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cu130
+streamlit
+SpeechRecognition
+openai-whisper
+edge-tts
+langchain-ollama
+langchain-core
+torch
+torchvision
+torchaudio
+PyAudio
+numpy<2.4
